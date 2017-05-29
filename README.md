@@ -1,0 +1,2 @@
+# MonetizeAndroidApps-Lesson1
+Learn how to monetize Android apps without adversely affecting the user experience. We will present the best practices of advertising, monetizing and publishing your Android app. We will also present an introduction to business models that will help you make money from an app using Google AdMob, Google’s mobile advertising platform specifically designed for mobile apps.
